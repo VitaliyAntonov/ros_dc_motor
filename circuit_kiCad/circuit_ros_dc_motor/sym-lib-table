@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ros_dc_motor_lib")(type "KiCad")(uri "${KIPRJMOD}/ros_dc_motor_lib.kicad_sym")(options "")(descr ""))
+)
