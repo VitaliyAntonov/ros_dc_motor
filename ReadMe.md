@@ -1,6 +1,6 @@
  
 
-Исзодный проект для работы ROS через USB взят отсюда:
+Исходный проект для работы ROS через USB взят отсюда:
 https://github.com/yltzdhbc/RosSerialVcp
 
 Проект создан в IDE CLion 2021.2.1
